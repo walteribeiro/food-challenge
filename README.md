@@ -4,11 +4,20 @@
 
 ## About
 
-_Short description of the project._
+Restaurant menu dashboard where dishes can be created, edited, toggled as available and removed. Migrated from class components to TypeScript function components with hooks. Rocketseat Ignite challenge *Refactoring classes and typescript*.
 
 ## Tech Stack
 
 - TypeScript
+- React
+- styled-components
+- React Router
+- axios
+- json-server
+- Testing Library
+- yup
+- Unform
+- Create React App
 
 ## Getting Started
 
@@ -17,6 +26,7 @@ git clone https://github.com/walteribeiro/food-challenge.git
 cd food-challenge
 npm install
 npm start
+npm run server   # mock API (json-server), in a second terminal
 ```
 
 ## Author
